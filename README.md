@@ -2,7 +2,7 @@
 
 watch this watch this😏
 
-![Snake animation](https://github.com/wanto-production/wanto-production/blob/output/snake.svg)
+![snake gif](https://github.com/wanto-production/wanto-production/blob/output/snake.svg)
 
 ## 🚀 Skills
 
