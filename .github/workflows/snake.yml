@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"  # Jalankan setiap hari
   workflow_dispatch:  # Bisa dijalankan manual
 
+permissions:
+  contents: write  # Menambahkan izin untuk push ke repo
+
 jobs:
   generate:
     runs-on: ubuntu-latest
