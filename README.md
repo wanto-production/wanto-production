@@ -1,6 +1,4 @@
-# Hello!, im ikhwan satrio😍
-
-watch this watch this😏
+# Hello!, im ikhwan satrio
 
 ![snake gif](https://github.com/wanto-production/wanto-production/blob/output/snake.svg)
 
