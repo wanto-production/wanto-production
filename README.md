@@ -47,7 +47,7 @@ I build fast, accessible, and user-friendly web experiences using modern framewo
 - Building performant web apps with **SvelteKit** & **Qwik**
 - Exploring **Rust** for WASM and tooling
 - Contributing to open-source projects
-- Writing technical notes on [my portfolio](https://portofolio-ikhwan.vercel.app)
+- Writing technical notes on [my portfolio](https://portofolio-wanto.vercel.app)
 
 ---
 
