@@ -1,9 +1,15 @@
-# 👋 Hello, I'm Ikhwan Satrio  
-### 🧑‍💻 Frontend Developer • Open Source Enthusiast • Lifelong Learner
+# 👋 Hello, I'm Ikhwan Satrio
+### 🧑‍💻 Frontend Developer • Open Source Enthusiast • Linux Enthusiast • Lifelong Learner
 
 > _"Code is my canvas, and ambition is my fuel."_
 
 I build fast, accessible, and user-friendly web experiences using modern frameworks like **SvelteKit**, **Astro**, and **Qwik**. Passionate about clean code, performance, and open-source collaboration.
+
+## 🐧 Linux Journey
+A passionate Linux enthusiast who has explored multiple distributions:
+**Ubuntu** → **Debian** → **Arch** → **NixOS** (main)
+
+![Linux Ricing](./assets/ricing.png)
 
 ![Snake animation](https://github.com/wanto-production/wanto-production/blob/output/snake.svg)
 
